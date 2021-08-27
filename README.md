@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blacklinerdev
 - 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... C++, Java
+- 🌱 I’m currently learning ... C++, Java, html, css, php, javascript
 - 💞️ I’m looking to collaborate on ...embedded projects
 - 📫 How to reach me ...
 
